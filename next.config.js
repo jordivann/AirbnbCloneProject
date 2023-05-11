@@ -10,8 +10,7 @@ const nextConfig = {
       "lh3.googleusercontent.com",
       "res.cloudinary.com"
     ]
-  },
-  cssModules: true
+  }
 }
 
 module.exports = nextConfig
