@@ -11,11 +11,7 @@ const nextConfig = {
       "res.cloudinary.com"
     ]
   },
-  cssModules: true,
-  cssLoaderOptions: {
-    importLoaders: 1,
-    localIdentName: "[local]__[hash:base64:5]",
-  },
+  cssModules: true
 }
 
 module.exports = nextConfig
